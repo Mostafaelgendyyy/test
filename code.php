@@ -1,2 +1,4 @@
-echo "Mostafa Elgendy";
-echo "kkkkkkkkkkkkkkk";
+<?php
+echo ("Mostafa Elgendy");
+echo ("kkkkkkkkkkkkkkk");
+?>
