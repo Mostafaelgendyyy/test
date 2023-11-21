@@ -1,2 +1,2 @@
-echo "Mostafa Elgendy"
-echo "kkkkkkkkkkkkkkk"
+echo "Mostafa Elgendy";
+echo "kkkkkkkkkkkkkkk";
